@@ -2,4 +2,4 @@
 
 # Some Description.
 
-<div>This is a <strong>TEST</strong></div>
+<div>This is a <span style="color:#349898;">RED</span></div>
